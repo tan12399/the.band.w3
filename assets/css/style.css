@@ -149,7 +149,7 @@ html {
 
 #slider {
     min-height: 1000px;
-    background: url(/assets/img/slider1.jpg) top center / cover no-repeat;
+    background: url(./assets/img/slider1.jpg) top center / cover no-repeat;
     margin-top: 46px;
     padding-top: 50%;
     position: relative;
